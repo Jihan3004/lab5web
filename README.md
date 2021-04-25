@@ -29,6 +29,9 @@ document.write akan menampilkan teks pada browser.
 
 Pemakaian prompt
 
+![22](https://user-images.githubusercontent.com/81526294/115983439-45079100-a5cb-11eb-87da-3439f117f073.PNG)
+
+
 ![5](https://user-images.githubusercontent.com/81526294/115982669-15568a00-a5c7-11eb-8aed-41d83293af50.PNG)
 
 Pembuatan fungsi
