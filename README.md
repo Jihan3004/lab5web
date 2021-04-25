@@ -87,9 +87,10 @@ Validasi pada form
 
 Jika form tidak di isi dengan lengkap maka akan muncul pop up warning. untuk memunculkan popup tersebut menggunakan fungsi if else. if jika semua form sudah ada nilainya atau di isi maka bernilai true atau bisa di lanjutkan.
 
-![21](https://user-images.githubusercontent.com/81526294/115982954-b8f46a00-a5c8-11eb-8195-9f31927766e1.PNG)
+![19](https://user-images.githubusercontent.com/81526294/115983133-a890bf00-a5c9-11eb-8a2a-e2f9b1bfa9af.PNG)
 
-![19](https://user-images.githubusercontent.com/81526294/115983102-75e6c680-a5c9-11eb-860d-e7f78f861d93.PNG)
+
+![21](https://user-images.githubusercontent.com/81526294/115982954-b8f46a00-a5c8-11eb-8195-9f31927766e1.PNG)
 
 
 Sedangkan else jika form nya belum di isi semua maka akan memunculkan alert.
