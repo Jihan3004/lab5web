@@ -26,9 +26,10 @@ document.write akan menampilkan teks pada browser.
 
 ![3](https://user-images.githubusercontent.com/81526294/115982563-5bf7b480-a5c6-11eb-8000-4dc7d1d8db5a.PNG)
 
-Pemakaian prompt
+![19](https://user-images.githubusercontent.com/81526294/115983063-3d46ed00-a5c9-11eb-9226-08daaccd4c7f.PNG)
 
-![4](https://user-images.githubusercontent.com/81526294/115982569-792c8300-a5c6-11eb-8cb6-323d6bba90da.PNG)
+
+Pemakaian prompt
 
 ![5](https://user-images.githubusercontent.com/81526294/115982669-15568a00-a5c7-11eb-8aed-41d83293af50.PNG)
 
