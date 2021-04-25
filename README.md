@@ -89,9 +89,11 @@ Jika form tidak di isi dengan lengkap maka akan muncul pop up warning. untuk mem
 
 ![21](https://user-images.githubusercontent.com/81526294/115982954-b8f46a00-a5c8-11eb-8195-9f31927766e1.PNG)
 
+![19](https://user-images.githubusercontent.com/81526294/115983102-75e6c680-a5c9-11eb-860d-e7f78f861d93.PNG)
+
+
 Sedangkan else jika form nya belum di isi semua maka akan memunculkan alert.
 
-![19](https://user-images.githubusercontent.com/81526294/115982963-c6a9ef80-a5c8-11eb-808e-9481dd4dce04.PNG)
 
 ![20](https://user-images.githubusercontent.com/81526294/115982964-c873b300-a5c8-11eb-9721-35263cf4ef3f.PNG)
 
